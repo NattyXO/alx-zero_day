@@ -1,2 +1,2 @@
 My first readme
-natty is awsome
+natty is amazing
